@@ -7,7 +7,7 @@ using namespace std;
 
 int main()
 {
-	cout << "Time calculator"<<endl;
+	cout << "Time calculator vol 2 kupa"<<endl;
 	cout << "Enter data in format hh:mm:ss"<<endl;
 	char sign = 'a';
 	int one = 1;
